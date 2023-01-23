@@ -1,2 +1,2 @@
 # guvi-task-round1
-shell script
+Create a public repository in github called "guvi-task-round1" To do in your local terminal: Create a directory named "task-directory" and enter into it. Then create a shell script named 'script.sh' and when executed, your script must do the following: -> Should Create 10 files with txt extension with the word "welcome" present in all 10 files -> Get 2 variables named 'var1' & 'var2', where the values for these variables must be given by user in runtime. -> If the value of 'var1' is equal to 'var2', then entire files in the directory must be made into a single tar file and pushed to "master" branch in your repo. If the values doesn't match, then the entire files in the directory must be pushed to "develop" branch in your repo.
